@@ -1,8 +1,7 @@
+name: Marco Ng
+favicon: null
 layout_spectrum: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.6164874
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.4616203063633293
-  brandStrength: 0.6843420905061066
-  rhythmicContrast: 0.02842635987326503
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  lightness: 0.1765710974577814
-typography_spectrum: 0.6164874
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Marco Ng
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#a2aebc'
+    - '#0b0f0e'
+    - '#2f363c'
+    - '#7c6d5a'
+    - '#edc47d'
+  brandStrength: 0.75
+  lightness: 0.1765710974577814
+  saturation: 0.4616203063633293
+  rhythmicContrast: 0.02842635987326503
+purpose: []
