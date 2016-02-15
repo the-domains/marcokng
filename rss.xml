@@ -4,8 +4,15 @@
         <description><![CDATA[Marco Ng]]></description>
         <link>http://marcokng.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 22:48:33 GMT</lastBuildDate>
         <atom:link href="http://marcokng.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dusk.]]></title>
+            <description><![CDATA[<article><h1>Dusk.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eff276a7e19ec5862df8ba48e63a4e78e796b770.png"></article>]]></description>
+            <link>http://marcokng.com/dusk/index.html</link>
+            <guid isPermaLink="false">4a0f4f73-4e1a-41f7-825c-ff9c931a4b00</guid>
+            <pubDate>Mon, 15 Feb 2016 22:47:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Worldjump.]]></title>
             <description><![CDATA[<article><h1>Worldjump.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e5d70cd0d1a7993dddba7764e742076ace13b9.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://marcokng.com/approach/index.html</link>
             <guid isPermaLink="false">9fccb66d-6338-4fde-8905-f5a214ba64dd</guid>
             <pubDate>Mon, 15 Feb 2016 22:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dreams.]]></title>
-            <description><![CDATA[<article><h1>Dreams.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e155fc7050293abb3d2bef5fb5fe10e8a7c948a6.png"></article>]]></description>
-            <link>http://marcokng.com/dreams/index.html</link>
-            <guid isPermaLink="false">c42d09a5-1344-4333-9078-5ccf6563e50a</guid>
-            <pubDate>Mon, 15 Feb 2016 22:29:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
