@@ -4,8 +4,15 @@
         <description><![CDATA[Marco Ng]]></description>
         <link>http://marcokng.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 22:58:37 GMT</lastBuildDate>
         <atom:link href="http://marcokng.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Morning.]]></title>
+            <description><![CDATA[<article><h1>Morning.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6992568a8af017208e3a74f06887f5d3ba07daa6.png"></article>]]></description>
+            <link>http://marcokng.com/morning/index.html</link>
+            <guid isPermaLink="false">aa11add7-de5a-415b-8c2e-2aa278f92fc2</guid>
+            <pubDate>Mon, 15 Feb 2016 22:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dusk.]]></title>
             <description><![CDATA[<article><h1>Dusk.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eff276a7e19ec5862df8ba48e63a4e78e796b770.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://marcokng.com/harbour/index.html</link>
             <guid isPermaLink="false">651cf939-2f44-4952-9ae9-a2e507f59527</guid>
             <pubDate>Mon, 15 Feb 2016 22:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Approach.]]></title>
-            <description><![CDATA[<article><h1>Approach.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb04583ee36150940860e3b3a023eb609cbb5771.png"></article>]]></description>
-            <link>http://marcokng.com/approach/index.html</link>
-            <guid isPermaLink="false">9fccb66d-6338-4fde-8905-f5a214ba64dd</guid>
-            <pubDate>Mon, 15 Feb 2016 22:32:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
