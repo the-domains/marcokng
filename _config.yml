@@ -1,40 +1,39 @@
-name: Marco Ng
 favicon: null
-layout_spectrum: 0.50477
-typography_spectrum: 0.60394
+name: Marco Ng
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
-  brandColors:
-    - '#ffffff'
-    - '#0d0906'
-    - '#6a7992'
-    - '#decab6'
-    - '#3a3a3c'
+  saturation: 0.375
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.375
+  brandColors:
+    - '#304B7F'
+    - '#4167AB'
+    - '#6FA2E1'
+    - '#78759B'
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.6594982
+layout_spectrum: 0.50477
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
