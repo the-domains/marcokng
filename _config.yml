@@ -1,3 +1,4 @@
+favicon: null
 cta:
   bucket: null
   version: null
@@ -12,28 +13,27 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.375
   brandStrength: 0
-  lightness: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#304B7F'
     - '#4167AB'
     - '#6FA2E1'
     - '#78759B'
-  rhythmicContrast: 0.75
-typography_spectrum: 0.6594982
+  lightness: 0.5
+typography_spectrum: 0.1218638
 layout_spectrum: 0.50477
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Marco Ng
