@@ -1,5 +1,7 @@
-favicon: null
-name: Marco Ng
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -29,11 +31,9 @@ color:
   rhythmicContrast: 0.75
 typography_spectrum: 0.6594982
 layout_spectrum: 0.50477
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Marco Ng
