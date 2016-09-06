@@ -1,9 +1,7 @@
-favicon: null
 name: Marco Ng
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.8369176
+typography_spectrum: 0.1218638
 collections:
   - index:
       path: /
@@ -16,24 +14,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0
-  rhythmicContrast: 0.75
   brandColors:
     - '#304B7F'
     - '#4167AB'
     - '#6FA2E1'
     - '#78759B'
+  brandStrength: 0
   lightness: 0.5
-typography_spectrum: 0.1218638
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.8369176
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.375
+  rhythmicContrast: 0.75
+purpose: []
